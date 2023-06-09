@@ -34,7 +34,7 @@ Snowpack is a fast and efficient build tool for web development. When used with 
 To install the dependencies, run the command below:
 
 ```bash
-npx create-snowreact-app my-app (or) yarn create snowreact-app my-app
+npx create-snowreact-app my-app
 ```
 
 To change the directory, run the command below:
@@ -46,7 +46,7 @@ cd my-app
 To install the dependencies, run the command below:
 
 ```bash
-npm install (or) yarn add
+npm install
 ```
 
 # Usage
@@ -54,13 +54,13 @@ npm install (or) yarn add
 To start the development server, run the command below:
 
 ```
-npm start (or) yarn start
+npm start
 ```
 
 To build for production, run the command below:
 
 ```
-npm run build (or) yarn build
+npm run build 
 ```
 
 # Snowpack Configuration File
